@@ -223,7 +223,7 @@ public class GobbletGobblers
            l=69;
            }
         }
-        if(l>12)
+        if(l==13)
         System.out.println("                     DRAW MATCH                    ");
         System.out.println("");
         System.out.println("");
